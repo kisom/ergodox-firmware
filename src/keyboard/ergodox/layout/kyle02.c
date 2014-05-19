@@ -71,11 +71,11 @@ KB_MATRIX_LAYER(
 	KEY_Tab,	KEY_a_A,	KEY_s_S,	KEY_d_D,	KEY_f_F,	KEY_g_G,	
 	KEY_LeftShift,	KEY_z_Z,	KEY_x_X,	KEY_c_C,	KEY_v_V,	KEY_b_B,	KEY_RightControl,	
 	KEY_LeftGUI,	0,	1,	KEY_Home,	KEY_End,	
-	KEY_LeftControl,	KEY_LeftAlt,	
+	KEY_RightControl,	KEY_LeftAlt,	
 	0,	0,		KEY_9_LeftParenthesis,	
 	KEY_DeleteBackspace,	KEY_DeleteForward,	KEY_PageUp,	
 	// right hand
-	KEY_LeftControl,	KEY_6_Caret,	KEY_7_Ampersand,	KEY_8_Asterisk,	KEY_9_LeftParenthesis,	KEY_0_RightParenthesis,	KEY_Dash_Underscore,	
+	KEY_Insert,	KEY_6_Caret,	KEY_7_Ampersand,	KEY_8_Asterisk,	KEY_9_LeftParenthesis,	KEY_0_RightParenthesis,	KEY_Dash_Underscore,	
 	KEY_RightBracket_RightBrace,	KEY_y_Y,	KEY_u_U,	KEY_i_I,	KEY_o_O,	KEY_p_P,	KEY_GraveAccent_Tilde,	
 	KEY_h_H,	KEY_j_J,	KEY_k_K,	KEY_l_L,	KEY_Semicolon_Colon,	KEY_SingleQuote_DoubleQuote,	
 	KEY_RightAlt,	KEY_n_N,	KEY_m_M,	KEY_Comma_LessThan,	KEY_Period_GreaterThan,	KEY_Slash_Question,	KEY_RightShift,	
